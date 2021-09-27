@@ -1,2 +1,2 @@
-# Extraccion de Conocimientos de Base de Datos
-Extracción de conocimientos de base de datos
+# Extraccion de Conocimientos de Base de Datos :blue_book:
+Extracción de conocimientos de base de datos 
